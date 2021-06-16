@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="number_buttons">
+        <item name="android:background">@android:color/darker_gray</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/box_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:width">@dimen/box_width</item>
+        <item name="android:height">@dimen/box_height</item>
+        <item name="android:layout_margin">@dimen/margin_layout</item>
+    </style>
+</resources>
